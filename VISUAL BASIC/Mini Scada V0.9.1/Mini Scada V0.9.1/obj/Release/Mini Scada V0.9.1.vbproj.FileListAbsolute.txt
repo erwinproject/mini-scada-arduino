@@ -1,0 +1,19 @@
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\bin\Release\Mini Scada V0.9.1.exe.config
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\bin\Release\Mini Scada V0.9.1.exe
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\bin\Release\Mini Scada V0.9.1.pdb
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\bin\Release\Mini Scada V0.9.1.xml
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\bin\Release\Support_original.dll
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.vbprojResolveAssemblyReference.cache
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmControling.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmInfo.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmLog.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmSetting.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmUtama.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmMonitoring.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.Resources.resources
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.vbproj.GenerateResource.Cache
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.exe
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.xml
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.pdb
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini Scada V0.9.1.exe.licenses
+C:\Users\Erwin Project\Documents\Visual Studio 2012\Projects\Mini Scada V0.9.1\Mini Scada V0.9.1\obj\Release\Mini_Scada_V0._9._1.frmSimulation.resources
